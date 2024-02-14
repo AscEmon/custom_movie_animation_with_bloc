@@ -4,4 +4,4 @@ Design one page UI where i am using custom animation wihtout any packages and al
 
 ## Final UI
 
-![Movie Gif](./custom_movie_animation/movie.gif)
+![Movie Gif](movie.gif)
